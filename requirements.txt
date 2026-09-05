@@ -1,0 +1,7 @@
+# Lista de dependencias (librerías externas) necesarias para ejecutar el proyecto.
+# Cada línea especifica un paquete y una versión mínima (o igual) que es compatible.
+
+streamlit>=1.28.0   # Framework para crear aplicaciones web interactivas con Python. Usado para la interfaz de usuario.
+plotly>=5.17.0      # Librería para gráficos interactivos. Se usa para generar las gráficas de funciones.
+numpy>=1.24.0       # Biblioteca para cálculo numérico y manejo de arreglos. Esencial para evaluar funciones en muchos puntos.
+sympy>=1.12         # Librería de matemática simbólica. Permite parsear, validar y convertir expresiones a LaTeX.
